@@ -44,25 +44,25 @@ permissions:
     default: true
   backpacks.craft.large:
     description: Allows one to craft the large backpack.
-    default: true
+    default: op
   backpacks.craft.linked:
     description: Allows one to craft the linked backpack.
-    default: true
+    default: op
   backpacks.craft.combined:
     description: Allows one to craft the combined backpack.
-    default: true
+    default: op
   backpacks.craft.craft:
     description: Allows one to craft the craft backpack.
     default: true
   backpacks.craft.ender:
     description: Allows one to craft the ender backpack.
-    default: true
+    default: op
   backpacks.craft.furnace:
     description: Allows one to craft the furnace backpack.
-    default: true
+    default: op
   backpacks.link:
     description: Allows a player to link a linked backpack to a chest.
-    default: true
+    default: op
   backpacks.split:
     description: Allows a player to use the split command.
     default: true
